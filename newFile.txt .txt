@@ -1,4 +1,2 @@
 Name : Kartik Pawade
 Age  : 23
-Class: 13
-
