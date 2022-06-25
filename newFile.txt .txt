@@ -1,2 +1,2 @@
-Kartik Pawade
-Age 23
+Name : Kartik Pawade
+Age  : 23
